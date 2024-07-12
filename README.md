@@ -100,3 +100,7 @@ npm run dev
 ## Developer
 
 `tammer`
+
+## Shortcomings
+
+屎山代码，糟糕的数据库设计（设置的外键太多）
