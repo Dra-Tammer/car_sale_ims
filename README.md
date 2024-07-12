@@ -12,8 +12,7 @@
     <img src="https://img.shields.io/badge/SpringBoot-brightgreen" alt="springboot">
   </a>
   <a href="https://baomidou.com/">
-    <img src="https://img.shields.io/badge/mybatis_plus-purple
-    " alt="mybatis-plus">
+    <img src="https://img.shields.io/badge/Mybatis_Plus-purple" alt="mybatis-plus">
   </a>
   <a href="https://github.com/gin-gonic/gin">
     <img src="https://img.shields.io/badge/gin-brightgreen" alt="gin">       
