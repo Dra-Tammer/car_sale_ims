@@ -5,8 +5,7 @@
     <img src="https://img.shields.io/badge/vue-brightgreeng" alt="vue">
   </a>
   <a href="https://element.eleme.cn/#/zh-CN">
-    <img src="https://img.shields.io/badge/ElementUI-purple
-    " alt="element-ui">
+    <img src="https://img.shields.io/badge/Element-purple" alt="element-ui">
   </a>
   <a href="https://spring.io/">
     <img src="https://img.shields.io/badge/SpringBoot-brightgreen" alt="springboot">
