@@ -1,0 +1,10 @@
+server:
+  port: 8083
+spring:
+  application:
+    name: demo
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/car_sales?serverTimezone=UTC
+    username: root
+    password: 
