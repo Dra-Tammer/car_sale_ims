@@ -6,6 +6,8 @@ import store from '@/store'
 // create an axios instance
 const service = axios.create({
   baseURL: 'http://localhost:8083', // url = base url + request url
+  // baseURL: 'http://47.94.226.225:8080',
+  // withCredentials: true, // send cookies when cross-domain requests
   timeout: 5000 // request timeout
 })
 

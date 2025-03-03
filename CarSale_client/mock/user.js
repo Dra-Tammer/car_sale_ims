@@ -14,7 +14,7 @@ const users = {
     introduction: 'I am a super administrator',
     // avatar: 'https://wpimg.wallstcn.com/f778738c-e4f8-4870-b634-56703b4acafe.gif',
     // avatar: 'https://s2.coinmarketcap.com/static/img/coins/200x200/26357.png',
-    avatar: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV6BRcMGvMX4RLjIu739cSyElQUdsOXN8IcA&s',
+    avatar: 'https://tse1-mm.cn.bing.net/th/id/OIP-C.EFfnQzEAtcWytl168ENvbAHaHa?rs=1&pid=ImgDetMain',
     name: 'Super Admin'
   },
   'editor-token': {
